@@ -1,3 +1,10 @@
+# Easy to use
+```
+# On your golang source dir
+curl -sL bit.ly/go_req | bash
+```
+
+
 # golang_requirements
 If you going to build the golang with requirements(import) in the jenkins, you can use this script
 ```
